@@ -1,2 +1,2 @@
 # RNN-project
-Just a placeholder for my Udacity RNN project (tv scripts generation)
+A repository for submitting my `Generate TV Scripts` Udacity project using a recurrent neural network with LSTM units and word embeddings.
